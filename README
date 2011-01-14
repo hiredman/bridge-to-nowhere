@@ -1,6 +1,6 @@
 # bridge-to-nowhere
 
-FIXME: write description
+Expose Clojure Maps as MXBeans
 
 ## Usage
 
